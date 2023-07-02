@@ -5,6 +5,7 @@
 using std::string; 
 using std::ostream;
 
+
 class Dog
 {
 	
